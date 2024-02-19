@@ -4,5 +4,6 @@ for i in range(1, number + 1):
     fact_result *= i
 
 print(f"The factorial of {number} is: {fact_result}")
-print("FACT::")
+print("FACT")
+print("made changes")
 
