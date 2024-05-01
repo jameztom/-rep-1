@@ -1,3 +1,6 @@
 [submodule "sub_mod_repo/-rep-1"]
 	path = sub_mod_repo/-rep-1
 	url = https://github.com/jameztom/-rep-1.git
+[submodule "new/-rep-1"]
+	path = new/-rep-1
+	url = https://github.com/jameztom/-rep-1.git
