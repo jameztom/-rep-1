@@ -4,7 +4,3 @@ for i in range(1, number + 1):
     fact_result *= i
 
 print(f"The factorial of {number} is: {fact_result}")
-print(Hello)
-
-print('edited')
-print('again')
